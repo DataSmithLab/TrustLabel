@@ -13,17 +13,20 @@ Activity and usage by this project’s consumers and contributors, as compared t
 ### Detailed Metrics
 
 - **Usage Popularity:** 363/1000 <center><img src="./images/jwilber_roughViz/stars_and_watches.png" width="50%"></center>
+  
   How much consumers use this project: stars, watches, forks, downstream dependents.
 
 - **Contributor Participation:** 979/1000 <center><img src="./images/jwilber_roughViz/contributor_participation.png" width="50%"></center>
+  
   Activity in discussion and participation: number of contributors, comments made, length of comments
 
 - **Code Contribution:** 236/1000 <center><img src="./images/jwilber_roughViz/code_contribution.png" width="50%"></center>
+  
   Activity in the codebase: commits and PRs
 
 - **Contributor Growth:**  No contributor growth found in last 7 months. 
+  
   How the project is scaling in size: change in contributors, PRs
-
 
 
 ## Maintenance and Goodwill
@@ -35,9 +38,11 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 ### Detailed Metrics
 
 - **Issues Maintenance:** 497/1000 <center><img src="./images/jwilber_roughViz/issues_maintenance.png" width="50%"></center>
+  
   How efficiently issues are addressed: issues closed, comments on issues
 
 - **Code Maintenance:** 114/1000 <center><img src="./images/jwilber_roughViz/code_maintenance.png" width="50%"></center>
+  
   How efficiently code changes are addressed: PRs closed, commit activity
 
 - **Community Documentation:** 413/1000 <center><img src="./images/jwilber_roughViz/community_documentation.png" width="50%"></center>
@@ -63,6 +68,7 @@ Security and scalability of the project’s code, as compared to those of the to
   Mitigation of dependency vulnerabilities: dependency versions, reported vulnerabilities
 
 - **Testing Quality:** 348/1000 <center><img src="./images/jwilber_roughViz/testing_quality.png" width="50%"></center>
+  
   Scale of automated tests: workflow runs, check runs, code authors
 
 - **Review Coverage:** 142/1000 <center><img src="./images/jwilber_roughViz/review_coverage.png" width="50%"></center>

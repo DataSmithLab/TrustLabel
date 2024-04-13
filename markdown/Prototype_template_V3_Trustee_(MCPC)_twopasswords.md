@@ -12,9 +12,11 @@ Activity and involvement by this project’s maintainer(s), as compared to those
 ### Detailed Metrics
 
 - **Issues Maintenance:** No issue found.
+  
   How efficiently issues are addressed: issues closed and comments on issues
 
 - **Code Maintenance:** 778/1000 <center><img src="./images/gennadis_twopasswords/code_maintenance.png" width="50%"></center>
+  
   How efficiently code changes are addressed: commits and PRs closed, commit activity
 
 - **Community Documentation:** 638/1000<center><img src="./images/gennadis_twopasswords/community_documentation.png" width="50%"></center>
@@ -36,9 +38,11 @@ Activity and involvement by this project’s contributors, as compared to those 
 ### Detailed Metrics
 
 - **Contributor Participation:** 1000/1000 <center><img src="./images/gennadis_twopasswords/contributor_participation.png" width="50%"></center>
+  
   Activity in discussion and participation: number of contributors, comments made, quality of comments
 
 - **Code Contribution:** No commit and pull request found in last 7 months.
+  
   Ability to add to the codebase: commits and PRs
 
 - **Contributor Growth:** No contributor growth found in last 7 months.
@@ -86,6 +90,7 @@ Security and review of the project’s code, as compared to those of the top 100
   Mitigation of dependency vulnerabilities: dependency versions, reported vulnerabilities
 
 - **Testing Quality:** No test found.
+  
   Scale of automated tests: workflow runs, check runs, code authors
 
 - **Review Coverage:** 924/1000 <center><img src="./images/gennadis_twopasswords/review_coverage.png" width="50%"></center>

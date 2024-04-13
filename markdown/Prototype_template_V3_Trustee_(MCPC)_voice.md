@@ -12,9 +12,11 @@ Activity and involvement by this project’s maintainer(s), as compared to those
 ### Detailed Metrics
 
 - **Issues Maintenance:** No issue found in last 7 months.
+  
   How efficiently issues are addressed: issues closed and comments on issues
 
 - **Code Maintenance:** No commit or closed pull request found in last 7 months.
+  
   How efficiently code changes are addressed: commits and PRs closed, commit activity
 
 - **Community Documentation:** 764/1000 <center><img src="./images/nithincvpoyyil_voice_listener/community_documentation.png" width="50%"></center>
@@ -36,9 +38,11 @@ Activity and involvement by this project’s contributors, as compared to those 
 ### Detailed Metrics
 
 - **Contributor Participation:** 827/1000 <center><img src="./images/nithincvpoyyil_voice_listener/contributor_participation.png" width="50%"></center>
+  
   Activity in discussion and participation: number of contributors, comments made, quality of comments
 
 - **Code Contribution:** 328/1000 <center><img src="./images/nithincvpoyyil_voice_listener/code_contribution.png" width="50%"></center>
+  
   Ability to add to the codebase: commits and PRs
 
 - **Contributor Growth:** There's no contributor growth in last 7 months.
@@ -86,6 +90,7 @@ Security and review of the project’s code, as compared to those of the top 100
   Mitigation of dependency vulnerabilities: dependency versions, reported vulnerabilities
 
 - **Testing Quality:** No test found.
+  
   Scale of automated tests: workflow runs, check runs, code authors
 
 - **Review Coverage:** 956/1000 <center><img src="./images/nithincvpoyyil_voice_listener/review_coverage.png" width="50%"></center>
