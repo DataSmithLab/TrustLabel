@@ -18,7 +18,7 @@
 - Number of [forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 - Number of [downstream dependents](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository)
 
-### Contributor Activity
+### Contributor Participation
 
 *Average of normalized below metrics*
 
@@ -76,7 +76,7 @@
 - Number of headings in code of conduct, contributing, governance documents
   - Number of headings (#, ##, ###) in [code of conduct](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
   - Number of headings (#, ##, ###) in [contributing](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
-  - Number of heading (#, ##, ###) in governance documents
+  - Number of headings (#, ##, ###) in governance documents
 - Number of headings in [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
 ### Maintainer History
@@ -92,11 +92,11 @@
 
 ### Dependencies Health
 
-*Average of normalized (Normalized for percentage, Inverse normalized for number) below metrics*
+*Average of normalized (normalized for percentage, inverse normalized for number) below metrics*
 
 - Dependencies version staleness
 - Number of  [dependencies](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository)
-- Number of [dependencies](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository) with unaddressed velnerabilities
+- Number of [dependencies](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository) with unaddressed vulnerabilities
 
 ### Testing Quality
 
@@ -108,14 +108,14 @@
 
 ### Review Coverage
 
-*Average of normalized (Normalized for number, Inverse normalized for percentage) below metrics*
+*Average of normalized (normalized for number, inverse normalized for percentage) below metrics*
 
 - Number of [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) per code file
 - Percentage of files with 2+ contributors
 
 ### Project Maturity
 
-*Average of below metrics and normalized number of versions*
+*Average of below normalized metrics*
 
 - Time since created
 - Number of [versions](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)

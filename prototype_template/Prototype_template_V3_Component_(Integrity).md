@@ -14,11 +14,11 @@ Activity and usage by this project’s consumers and contributors, as compared t
 - **Usage Popularity:** [number] **[histogram]**
   How much consumers use this project: stars, watches, forks, downstream dependents.
 
-- **Contributor Activity:** [number] **[histogram]**
-  Activity in discussion and participation: number of contributors, comments made, quality of comments
+- **Contributor Participation:** [number] **[histogram]**
+  Activity in discussion and participation: number of contributors, comments made, length of comments
 
 - **Code Contribution:** [number] **[histogram]**
-  Ability to add to the codebase: commits and PRs
+  Activity in the codebase: commits and PRs
 
 - **Contributor Growth:** [number] **[histogram]**
   
@@ -35,10 +35,10 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 ### Detailed Metrics
 
 - **Issues Maintenance:** [number] **[histogram]**
-  How efficiently issues are addressed: issues closed and comments on issues
+  How efficiently issues are addressed: issues closed, comments on issues
 
 - **Code Maintenance:** [number] **[histogram]**
-  How efficiently code changes are addressed: commits and PRs closed, commit standards
+  How efficiently code changes are addressed: PRs closed, commit activity
 
 - **Community Documentation:** [number] **[histogram]**
   

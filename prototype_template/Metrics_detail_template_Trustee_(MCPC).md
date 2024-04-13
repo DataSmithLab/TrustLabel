@@ -13,7 +13,7 @@
 
 - Percentage of [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) closed
 - Average time to close [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months)
-- Average time until first [maintainers](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months)
+- Average time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months)
 
 ### Code Maintenance
 
@@ -48,7 +48,7 @@
 
 ## Contribution
 
-### Contributor Activity
+### Contributor Participation
 
 *Average of normalized below metrics*
 
@@ -86,22 +86,22 @@
 - Number of [stars](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#about-stars)
 - Number of [watchers](https://docs.github.com/en/rest/activity/watching?apiVersion=2022-11-28#about-watching)
 
-### Fork
+### Forks
 
-*Average of normalized below metrics*
+*Normalized metric*
 
 - Number of [forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 
 ### Project Maturity
 
-*Average of below metrics and normalized number of versions*
+*Average of normalized below metrics*
 
 - Time since created
 - Number of [versions](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 
 ### Downstream Dependents
 
-Average of normalized below metrics
+*Normalized metric*
 
 - Number of [downstream dependents](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository)
 
@@ -111,7 +111,7 @@ Average of normalized below metrics
 
 ### Dependencies Health
 
-*Average of normalized (Normalized for percentage, Inverse normalized for number) below metrics*
+*Average of normalized (normalized for percentage, inverse normalized for number) below metrics*
 
 - Dependencies version staleness
 - Number of  [dependencies](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository)
@@ -127,7 +127,7 @@ Average of normalized below metrics
 
 ### Review Coverage
 
-*Average of normalized (Normalized for number, Inverse normalized for percentage) below metrics*
+*Average of normalized (normalized for number, inverse normalized for percentage) below metrics*
 
 - Number of [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) per code file
 - Percentage of files with 2+ contributors
