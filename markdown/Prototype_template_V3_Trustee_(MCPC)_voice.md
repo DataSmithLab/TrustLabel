@@ -5,7 +5,7 @@
 
 ## Maintenance
 
-- **Percentile: 938/1000** ![](./images/nithincvpoyyil_voice_listener/maintenance.png)
+- **Percentile: 938/1000** <center><img src="./images/nithincvpoyyil_voice_listener/maintenance.png" width="50%"></center>
 
 Activity and involvement by this project’s maintainer(s), as compared to those of the top 1000 most-downloaded npm libraries. Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).
 
@@ -17,11 +17,11 @@ Activity and involvement by this project’s maintainer(s), as compared to those
 - **Code Maintenance:** No commit or closed pull request found in last 7 months.
   How efficiently code changes are addressed: commits and PRs closed, commit activity
 
-- **Community Documentation:** 764/1000 ![](./images/nithincvpoyyil_voice_listener/community_documentation.png)
+- **Community Documentation:** 764/1000 <center><img src="./images/nithincvpoyyil_voice_listener/community_documentation.png" width="50%"></center>
 
   Support for the community to participate: issue and PR templates, code of conduct, governance, etc.
 
-- **Maintainer History:** 935/1000 ![](./images/nithincvpoyyil_voice_listener/maintainer_history.png)
+- **Maintainer History:** 935/1000 <center><img src="./images/nithincvpoyyil_voice_listener/maintainer_history.png" width="50%"></center>
 
   Maintainer experience: maintainers' other projects
 
@@ -29,16 +29,16 @@ Activity and involvement by this project’s maintainer(s), as compared to those
 
 ## Contribution
 
-- **Percentile: 770/1000** ![](./images/nithincvpoyyil_voice_listener/contribution.png)
+- **Percentile: 770/1000** <center><img src="./images/nithincvpoyyil_voice_listener/contribution.png" width="50%"></center>
 
 Activity and involvement by this project’s contributors, as compared to those of the top 1000 most-downloaded npm libraries. Fostering and encouraging more contribution and participation would increase these metrics.
 
 ### Detailed Metrics
 
-- **Contributor Participation:** 827/1000 ![](./images/nithincvpoyyil_voice_listener/contributor_participation.png)
+- **Contributor Participation:** 827/1000 <center><img src="./images/nithincvpoyyil_voice_listener/contributor_participation.png" width="50%"></center>
   Activity in discussion and participation: number of contributors, comments made, quality of comments
 
-- **Code Contribution:** 328/1000 ![](./images/nithincvpoyyil_voice_listener/code_contribution.png)
+- **Code Contribution:** 328/1000 <center><img src="./images/nithincvpoyyil_voice_listener/code_contribution.png" width="50%"></center>
   Ability to add to the codebase: commits and PRs
 
 - **Contributor Growth:** There's no contributor growth in last 7 months.
@@ -49,25 +49,25 @@ Activity and involvement by this project’s contributors, as compared to those 
 
 ## Popularity
 
-- **Percentile: 909/1000** ![](./images/nithincvpoyyil_voice_listener/popularity.png)
+- **Percentile: 909/1000** <center><img src="./images/nithincvpoyyil_voice_listener/popularity.png" width="50%"></center>
 
 Activity and usage by this project’s consumers, as compared to those of the top 1000 most-downloaded npm libraries. Spreading this project to more users and maintaining it over time increases these metrics.
 
 ### Detailed Metrics
 
-- **Stars and Watches**: 997/1000 ![](./images/nithincvpoyyil_voice_listener/stars_and_watches.png)
+- **Stars and Watches**: 997/1000 <center><img src="./images/nithincvpoyyil_voice_listener/stars_and_watches.png" width="50%"></center>
 
   How much consumers follow this project: stargazers, watchers
 
-- **Forks**: 999/1000 ![](./images/nithincvpoyyil_voice_listener/forks.png)
+- **Forks**: 999/1000 <center><img src="./images/nithincvpoyyil_voice_listener/forks.png" width="50%"></center>
 
   How much consumers build off this project: forks
 
-- **Project Maturity:** 885/1000 ![](./images/nithincvpoyyil_voice_listener/project_maturity.png)
+- **Project Maturity:** 885/1000 <center><img src="./images/nithincvpoyyil_voice_listener/project_maturity.png" width="50%"></center>
 
   Size and age of repo: creation time, versions
 
-- **Downstream Dependents**: 970/1000 ![](./images/nithincvpoyyil_voice_listener/downstream_dependents.png)
+- **Downstream Dependents**: 970/1000 <center><img src="./images/nithincvpoyyil_voice_listener/downstream_dependents.png" width="50%"></center>
 
   For projects producing packages and dependencies, how many downstream projects rely on them
 
@@ -75,19 +75,19 @@ Activity and usage by this project’s consumers, as compared to those of the to
 
 ## Code Quality
 
-- **Percentile: 861/1000** ![](./images/nithincvpoyyil_voice_listener/code_quality.png)
+- **Percentile: 861/1000** <center><img src="./images/nithincvpoyyil_voice_listener/code_quality.png" width="50%"></center>
 
 Security and review of the project’s code, as compared to those of the top 1000 most-downloaded npm libraries. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.
 
 ### Detailed Metrics
 
-- **Dependencies Health:** 735/1000 ![](./images/nithincvpoyyil_voice_listener/dependencies_health.png)
+- **Dependencies Health:** 735/1000 <center><img src="./images/nithincvpoyyil_voice_listener/dependencies_health.png" width="50%"></center>
 
   Mitigation of dependency vulnerabilities: dependency versions, reported vulnerabilities
 
 - **Testing Quality:** No test found.
   Scale of automated tests: workflow runs, check runs, code authors
 
-- **Review Coverage:** 956/1000 ![](./images/nithincvpoyyil_voice_listener/review_coverage.png)
+- **Review Coverage:** 956/1000 <center><img src="./images/nithincvpoyyil_voice_listener/review_coverage.png" width="50%"></center>
 
   Scale of manual code reviews: contributors and reviewers per code portion
