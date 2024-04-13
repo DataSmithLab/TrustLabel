@@ -5,7 +5,7 @@
 
 ## Community Activity and Integrity
 
-- **Percentile: 998/1000** ![](/images/gennadis_twopasswords/community_activity_and_integrity.png)
+- **Percentile: 998/1000** ![](./images/gennadis_twopasswords/community_activity_and_integrity.png)
 
 Activity and usage by this project’s consumers and contributors, as compared to those of the top 1000 most-downloaded npm libraries. More people using and contributing to this project increases these metrics.
 
