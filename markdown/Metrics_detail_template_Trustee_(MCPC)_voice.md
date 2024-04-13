@@ -12,18 +12,18 @@
 
 *Average of normalized (Normalized for percentage, Inverse normalized for time) below metrics*
 
-- Percentage of [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) closed : There's no issue.
-- Average time to close [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : There's no issue in last 7 months.
-- Average time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : There's no issue in last 7 months.
+- Percentage of [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) closed : No issue.
+- Average time to close [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : No issue found in last 7 months.
+- Average time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : No issue found in last 7 months.
 
 ### Code Maintenance
 
 *Average of normalized (Normalized for percentage and number, Inverse normalized for time and days) below metrics*
 
 - Percentage of [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s closed : 0%
-- Time to close [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : There's no closed pull request in last 7 months.
-- Time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment or close on [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : There's no comment on pull request in last 7 months.
-- Number of [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) closed (7 months) : There's no commit in last 7 months.
+- Time to close [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : No closed pull request found in last 7 months.
+- Time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment or close on [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : No comment on pull request found in last 7 months.
+- Number of [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) closed (7 months) : No commit found in last 7 months.
 - Days since last [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) : 2281 days
 - Number of [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) tags : 8
 
@@ -56,7 +56,7 @@
 - Number of distinct contributors, maintainers, issue reporters (7 months) 
 
   - Number of distinct [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months) : 1
-  - Number of [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) reporters (7 months) : There's no issue in last 7 months.
+  - Number of [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) reporters (7 months) : No issue found in last 7 months.
 
 - Number of comments per [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) (7 months) : 1.2
 

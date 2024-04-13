@@ -43,7 +43,7 @@
 
 *Average of normalized below metrics*
 
-- Change in number of active [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months) : There's new contributor growth in last 7 months.
+- Change in number of active [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months) : No contributor growth found in last 7 months.
 
 
 ## Maintenance and Goodwill
@@ -53,7 +53,7 @@
 *Average of normalized (Normalized for percentage, Inverse normalized for time) below metrics*
 
 - Percentage of [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) closed : 70%
-- Average time to close [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : There's no issue in last 7 months.
+- Average time to close [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : No issue found in last 7 months.
 - Average time until first [maintainers](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : There's no issue in last 7 months.
 
 ### Code Maintenance

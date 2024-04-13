@@ -70,7 +70,7 @@
 
 *average of normalized below metrics*
 
-- Change in number of active [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months) : There's no contributor growth in last 7 months.
+- Change in number of active [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months) : No contributor growth found in last 7 months.
 
 ## Popularity
 

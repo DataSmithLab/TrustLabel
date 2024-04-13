@@ -64,11 +64,11 @@
 *Average of normalized (Normalized for percentage and number, Inverse normalized for time and days) below metrics*
 
 - Percentage of [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s closed : 100%
-- Time to close [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : There's no pull request in last 7 months.
-- Time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment or close on [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : There's no pull request in last 7 months.
-- Number of [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) closed (7 months) : There's no commit in last 7 months.
+- Time to close [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : No pull request found in last 7 months.
+- Time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment or close on [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : No pull request found in last 7 months.
+- Number of [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) closed (7 months) : No commit found in last 7 months.
 - Days since last [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) : 865 days
-- Number of [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) tags : There's no commit in last 7 months.
+- Number of [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) tags : No commit found in last 7 months.
  
 ### Community Documentation
 
