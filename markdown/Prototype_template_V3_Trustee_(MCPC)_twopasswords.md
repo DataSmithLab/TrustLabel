@@ -15,15 +15,15 @@ Activity and involvement by this project’s maintainer(s), as compared to those
   
   How efficiently issues are addressed: issues closed and comments on issues
 
-- **Code Maintenance:** 778/1000 <center><img src="./images/gennadis_twopasswords/code_maintenance.png" width="50%"></center>
+- **Code Maintenance:** 778/1000 <center><img src="./images/gennadis_twopasswords/code_maintenance.png" width="350px" height="150px"></center>
   
   How efficiently code changes are addressed: commits and PRs closed, commit activity
 
-- **Community Documentation:** 638/1000<center><img src="./images/gennadis_twopasswords/community_documentation.png" width="50%"></center>
+- **Community Documentation:** 638/1000<center><img src="./images/gennadis_twopasswords/community_documentation.png" width="350px" height="150px"></center>
 
   Support for the community to participate: issue and PR templates, code of conduct, governance, etc.
 
-- **Maintainer History:** 978/1000 <center><img src="./images/gennadis_twopasswords/maintainer_history.png" width="50%"></center>
+- **Maintainer History:** 978/1000 <center><img src="./images/gennadis_twopasswords/maintainer_history.png" width="350px" height="150px"></center>
 
   Maintainer experience: maintainers' other projects
 
@@ -37,7 +37,7 @@ Activity and involvement by this project’s contributors, as compared to those 
 
 ### Detailed Metrics
 
-- **Contributor Participation:** 1000/1000 <center><img src="./images/gennadis_twopasswords/contributor_participation.png" width="50%"></center>
+- **Contributor Participation:** 1000/1000 <center><img src="./images/gennadis_twopasswords/contributor_participation.png" width="350px" height="150px"></center>
   
   Activity in discussion and participation: number of contributors, comments made, quality of comments
 
@@ -59,7 +59,7 @@ Activity and usage by this project’s consumers, as compared to those of the to
 
 ### Detailed Metrics
 
-- **Stars and Watches**: 997/1000 <center><img src="./images/gennadis_twopasswords/stars_and_watches.png" width="50%"></center>
+- **Stars and Watches**: 997/1000 <center><img src="./images/gennadis_twopasswords/stars_and_watches.png" width="350px" height="150px"></center>
 
   How much consumers follow this project: stargazers, watchers
 
@@ -67,7 +67,7 @@ Activity and usage by this project’s consumers, as compared to those of the to
 
   How much consumers build off this project: forks
 
-- **Project Maturity:** : 994/1000 <center><img src="./images/gennadis_twopasswords/project_maturity.png" width="50%"></center> 
+- **Project Maturity:** : 994/1000 <center><img src="./images/gennadis_twopasswords/project_maturity.png" width="350px" height="150px"></center> 
 
   Size and age of repo: creation time, versions
 
@@ -85,7 +85,7 @@ Security and review of the project’s code, as compared to those of the top 100
 
 ### Detailed Metrics
 
-- **Dependencies Health:** 418/1000 <center><img src="./images/gennadis_twopasswords/dependencies_health.png" width="50%"></center>
+- **Dependencies Health:** 418/1000 <center><img src="./images/gennadis_twopasswords/dependencies_health.png" width="350px" height="150px"></center>
 
   Mitigation of dependency vulnerabilities: dependency versions, reported vulnerabilities
 
@@ -93,6 +93,6 @@ Security and review of the project’s code, as compared to those of the top 100
   
   Scale of automated tests: workflow runs, check runs, code authors
 
-- **Review Coverage:** 924/1000 <center><img src="./images/gennadis_twopasswords/review_coverage.png" width="50%"></center>
+- **Review Coverage:** 924/1000 <center><img src="./images/gennadis_twopasswords/review_coverage.png" width="350px" height="150px"></center>
 
   Scale of manual code reviews: contributors and reviewers per code portion

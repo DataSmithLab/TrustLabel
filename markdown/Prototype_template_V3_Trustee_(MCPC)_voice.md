@@ -19,11 +19,11 @@ Activity and involvement by this project’s maintainer(s), as compared to those
   
   How efficiently code changes are addressed: commits and PRs closed, commit activity
 
-- **Community Documentation:** 764/1000 <center><img src="./images/nithincvpoyyil_voice_listener/community_documentation.png" width="50%"></center>
+- **Community Documentation:** 764/1000 <center><img src="./images/nithincvpoyyil_voice_listener/community_documentation.png" width="350px" height="150px"></center>
 
   Support for the community to participate: issue and PR templates, code of conduct, governance, etc.
 
-- **Maintainer History:** 935/1000 <center><img src="./images/nithincvpoyyil_voice_listener/maintainer_history.png" width="50%"></center>
+- **Maintainer History:** 935/1000 <center><img src="./images/nithincvpoyyil_voice_listener/maintainer_history.png" width="350px" height="150px"></center>
 
   Maintainer experience: maintainers' other projects
 
@@ -37,11 +37,11 @@ Activity and involvement by this project’s contributors, as compared to those 
 
 ### Detailed Metrics
 
-- **Contributor Participation:** 827/1000 <center><img src="./images/nithincvpoyyil_voice_listener/contributor_participation.png" width="50%"></center>
+- **Contributor Participation:** 827/1000 <center><img src="./images/nithincvpoyyil_voice_listener/contributor_participation.png" width="350px" height="150px"></center>
   
   Activity in discussion and participation: number of contributors, comments made, quality of comments
 
-- **Code Contribution:** 328/1000 <center><img src="./images/nithincvpoyyil_voice_listener/code_contribution.png" width="50%"></center>
+- **Code Contribution:** 328/1000 <center><img src="./images/nithincvpoyyil_voice_listener/code_contribution.png" width="350px" height="150px"></center>
   
   Ability to add to the codebase: commits and PRs
 
@@ -59,19 +59,19 @@ Activity and usage by this project’s consumers, as compared to those of the to
 
 ### Detailed Metrics
 
-- **Stars and Watches**: 997/1000 <center><img src="./images/nithincvpoyyil_voice_listener/stars_and_watches.png" width="50%"></center>
+- **Stars and Watches**: 997/1000 <center><img src="./images/nithincvpoyyil_voice_listener/stars_and_watches.png" width="350px" height="150px"></center>
 
   How much consumers follow this project: stargazers, watchers
 
-- **Forks**: 999/1000 <center><img src="./images/nithincvpoyyil_voice_listener/forks.png" width="50%"></center>
+- **Forks**: 999/1000 <center><img src="./images/nithincvpoyyil_voice_listener/forks.png" width="350px" height="150px"></center>
 
   How much consumers build off this project: forks
 
-- **Project Maturity:** 885/1000 <center><img src="./images/nithincvpoyyil_voice_listener/project_maturity.png" width="50%"></center>
+- **Project Maturity:** 885/1000 <center><img src="./images/nithincvpoyyil_voice_listener/project_maturity.png" width="350px" height="150px"></center>
 
   Size and age of repo: creation time, versions
 
-- **Downstream Dependents**: 970/1000 <center><img src="./images/nithincvpoyyil_voice_listener/downstream_dependents.png" width="50%"></center>
+- **Downstream Dependents**: 970/1000 <center><img src="./images/nithincvpoyyil_voice_listener/downstream_dependents.png" width="350px" height="150px"></center>
 
   For projects producing packages and dependencies, how many downstream projects rely on them
 
@@ -85,7 +85,7 @@ Security and review of the project’s code, as compared to those of the top 100
 
 ### Detailed Metrics
 
-- **Dependencies Health:** 735/1000 <center><img src="./images/nithincvpoyyil_voice_listener/dependencies_health.png" width="50%"></center>
+- **Dependencies Health:** 735/1000 <center><img src="./images/nithincvpoyyil_voice_listener/dependencies_health.png" width="350px" height="150px"></center>
 
   Mitigation of dependency vulnerabilities: dependency versions, reported vulnerabilities
 
@@ -93,6 +93,6 @@ Security and review of the project’s code, as compared to those of the top 100
   
   Scale of automated tests: workflow runs, check runs, code authors
 
-- **Review Coverage:** 956/1000 <center><img src="./images/nithincvpoyyil_voice_listener/review_coverage.png" width="50%"></center>
+- **Review Coverage:** 956/1000 <center><img src="./images/nithincvpoyyil_voice_listener/review_coverage.png" width="350px" height="150px"></center>
 
   Scale of manual code reviews: contributors and reviewers per code portion

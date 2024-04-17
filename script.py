@@ -33,8 +33,10 @@ def generate_histogram(column, value):
 
     plt.xlim(0, 10)
     plt.gca().yaxis.set_visible(False)
-    save_path = f"./images/jwilber_roughViz/{column}.png"
-    plt.savefig(save_path, dpi=300, bbox_inches='tight', pad_inches=1)
+    plt.gca().xaxis.set_visible(False)
+    
+    save_path = f"./markdown/images/nithincvpoyyil_voice_listener_v2/{column}.png"
+    plt.savefig(save_path, dpi=300, bbox_inches='tight', pad_inches=0.5)
     plt.close()
 
 
@@ -44,4 +46,4 @@ twopasswords = [0.67,None,0.14125,2.2222222222222223,None,None,1.690000000000000
 voicelistener = [0.8395833333333333,0.7055555555555556,0.51875,2.0477777777777777,None,None,1.5333333333333334,1.825,2.106666666666667,0.01,None,None,None,2.075,None,6.1433333333333335,None,0.52,0.11]
 
 for index, metric in enumerate(metrics):
-    generate_histogram(metric, roughViz[index])
+    generate_histogram(metric, voicelistener[index])

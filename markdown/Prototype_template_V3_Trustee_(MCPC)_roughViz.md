@@ -12,19 +12,19 @@ Activity and involvement by this project’s maintainer(s), as compared to those
 
 ### Detailed Metrics
 
-- **Issues Maintenance:** 497/1000 <center><img src="./images/jwilber_roughViz/issues_maintenance.png" width="50%"></center>
+- **Issues Maintenance:** 497/1000 <center><img src="./images/jwilber_roughViz/issues_maintenance.png" width="350px" height="150px"></center>
   
   How efficiently issues are addressed: issues closed and comments on issues
 
-- **Code Maintenance:** 114/1000 <center><img src="./images/jwilber_roughViz/code_maintenance.png" width="50%"></center>
+- **Code Maintenance:** 114/1000 <center><img src="./images/jwilber_roughViz/code_maintenance.png" width="350px" height="150px"></center>
   
   How efficiently code changes are addressed: commits and PRs closed, commit activity
 
-- **Community Documentation:** 413/1000 <center><img src="./images/jwilber_roughViz/community_documentation.png" width="50%"></center>
+- **Community Documentation:** 413/1000 <center><img src="./images/jwilber_roughViz/community_documentation.png" width="350px" height="150px"></center>
 
   Support for the community to participate: issue and PR templates, code of conduct, governance, etc.
 
-- **Maintainer History:** 144/1000 <center><img src="./images/jwilber_roughViz/maintainer_history.png" width="50%"></center>
+- **Maintainer History:** 144/1000 <center><img src="./images/jwilber_roughViz/maintainer_history.png" width="350px" height="150px"></center>
 
   Maintainer experience: maintainers' other projects
 
@@ -37,11 +37,11 @@ Activity and involvement by this project’s contributors, as compared to those 
 
 ### Detailed Metrics
 
-- **Contributor Participation:** 979/1000 <center><img src="./images/jwilber_roughViz/contributor_participation.png" width="50%"></center>
+- **Contributor Participation:** 979/1000 <center><img src="./images/jwilber_roughViz/contributor_participation.png" width="350px" height="150px"></center>
   
   Activity in discussion and participation: number of contributors, comments made, quality of comments
 
-- **Code Contribution:** 236/1000  <center><img src="./images/jwilber_roughViz/code_contribution.png" width="50%"></center>
+- **Code Contribution:** 236/1000  <center><img src="./images/jwilber_roughViz/code_contribution.png" width="350px" height="150px"></center>
   
   Ability to add to the codebase: commits and PRs
 
@@ -59,19 +59,19 @@ Activity and usage by this project’s consumers, as compared to those of the to
 
 ### Detailed Metrics
 
-- **Stars and Watches**: 363/1000 <center><img src="./images/jwilber_roughViz/stars_and_watches.png" width="50%"></center>
+- **Stars and Watches**: 363/1000 <center><img src="./images/jwilber_roughViz/stars_and_watches.png" width="350px" height="150px"></center>
 
   How much consumers follow this project: stargazers, watchers
 
-- **Forks**: 449/1000 <center><img src="./images/jwilber_roughViz/forks.png" width="50%"></center>
+- **Forks**: 449/1000 <center><img src="./images/jwilber_roughViz/forks.png" width="350px" height="150px"></center>
 
   How much consumers build off this project: forks
 
-- **Project Maturity:** 988/1000 <center><img src="./images/jwilber_roughViz/project_maturity.png" width="50%"></center>
+- **Project Maturity:** 988/1000 <center><img src="./images/jwilber_roughViz/project_maturity.png" width="350px" height="150px"></center>
 
   Size and age of repo: creation time, versions
 
-- **Downstream Dependents**: 870/1000 <center><img src="./images/jwilber_roughViz/downstream_dependents.png" width="50%"></center>
+- **Downstream Dependents**: 870/1000 <center><img src="./images/jwilber_roughViz/downstream_dependents.png" width="350px" height="150px"></center>
 
   For projects producing packages and dependencies, how many downstream projects rely on them
 
@@ -85,14 +85,14 @@ Security and review of the project’s code, as compared to those of the top 100
 
 ### Detailed Metrics
 
-- **Dependencies Health:** 524/1000 <center><img src="./images/jwilber_roughViz/dependencies_health.png" width="50%"></center>
+- **Dependencies Health:** 524/1000 <center><img src="./images/jwilber_roughViz/dependencies_health.png" width="350px" height="150px"></center>
 
   Mitigation of dependency vulnerabilities: dependency versions, reported vulnerabilities
 
-- **Testing Quality:** 348/1000 <center><img src="./images/jwilber_roughViz/testing_quality.png" width="50%"></center>
+- **Testing Quality:** 348/1000 <center><img src="./images/jwilber_roughViz/testing_quality.png" width="350px" height="150px"></center>
   
   Scale of automated tests: workflow runs, check runs, code authors
 
-- **Review Coverage:** 142/1000 <center><img src="./images/jwilber_roughViz/review_coverage.png" width="50%"></center>
+- **Review Coverage:** 142/1000 <center><img src="./images/jwilber_roughViz/review_coverage.png" width="350px" height="150px"></center>
 
   Scale of manual code reviews: contributors and reviewers per code portion
