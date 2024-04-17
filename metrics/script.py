@@ -2,11 +2,14 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 
-def generate_histogram(column, value, repo):
+def generate_histogram(column, value, repo, label="trustee"):
     plt.rcParams["font.sans-serif"] = ["SimHei"]
     plt.figure(figsize=(10, 3))
 
     file_path = f"{repo}_prototype.csv"
+    if label == "component":
+        file_path = f"{repo}_both_prototypes.csv"
+
     df = pd.read_csv(file_path, encoding='gbk')
 
     df_filtered = df[df[column] != 'N/A'].dropna(subset=[column])
@@ -41,20 +44,39 @@ def generate_histogram(column, value, repo):
     ax.spines['left'].set_visible(False)
     ax.spines['bottom'].set_visible(False)
     save_path = f"./images/{repo}/{column}.png"
+    if label == "component":
+        save_path = save_path = f"./images/{repo}/{column}_component.png"
     plt.savefig(save_path, dpi=300, bbox_inches='tight', pad_inches=0.1)
     plt.close()
 
 
-histograms = ['maintenance', 'contribution', 'popularity', 'code_quality']
+### Trustee label
+# histograms = ['maintenance', 'contribution', 'popularity', 'code_quality']
 
-roughViz = [23.9, 18.0, 36.8, 18.0]
-for index, column in enumerate(histograms):
-    generate_histogram(column, roughViz[index], 'roughViz')
+# roughViz = [23.9, 18.0, 36.8, 18.0]
+# for index, column in enumerate(histograms):
+#     generate_histogram(column, roughViz[index], 'roughViz')
 
-twopasswords = [15.8, 0.0, 7.5, 3.9]
-for index, column in enumerate(histograms):
-    generate_histogram(column, twopasswords[index], 'twopasswords')
+# twopasswords = [15.8, 0.0, 7.5, 3.9]
+# for index, column in enumerate(histograms):
+#     generate_histogram(column, twopasswords[index], 'twopasswords')
 
-voice_listener = [11.1, 7.6, 8.8, 10.7]
+# voice_listener = [11.1, 7.6, 8.8, 10.7]
+# for index, column in enumerate(histograms):
+#     generate_histogram(column, voice_listener[index], 'voice-listener')
+
+
+### Component label
+histograms = ['community_activity_and_integrity', 'maintenance_and_goodwill', 'code_quality']
+
+# roughViz = [22.875, 24.825, 12.35]
+# for index, column in enumerate(histograms):
+#     generate_histogram(column, roughViz[index], 'roughViz', label="component")
+
+# twopasswords = [1.875, 15.775, 3.0]
+# for index, column in enumerate(histograms):
+#     generate_histogram(column, twopasswords[index], 'twopasswords', label="component")
+
+voice_listener = [7.9, 11.075, 9.7]
 for index, column in enumerate(histograms):
-    generate_histogram(column, voice_listener[index], 'voice-listener')
+    generate_histogram(column, voice_listener[index], 'voice_listener', label="component")
