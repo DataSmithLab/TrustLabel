@@ -23,10 +23,7 @@ new_csv_filename = 'voice-listener_percentiles.csv'
 
 original_data, headers = read_csv(csv_filename)
 
-normalized_data = []  
-
-for index, header in enumerate(headers):
-    print(index, header)
+normalized_data = []
 
 ascending_column = ['time_to_close_issues', 'time_to_comment_issues', 'time_to_close_PRs', 'time_to_comment_PRs', 'vulnerabilities', 'outdated_versions']
 
@@ -44,10 +41,10 @@ for col_index in range(len(headers)):
             scaled_column = []
             for x in column_data:
                 if x != "-1.0":
-                    if col_index in ascending_column:
-                        scaled_column.append(sorting_data_list[index])
+                    if col_index not in ascending_column:
+                        scaled_column.append(f"{(sorting_data_list[index] / 10) :.1f}")
                     else:
-                        scaled_column.append(len(numeric_data_list) + 1 - sorting_data_list[index])
+                        scaled_column.append(f"{((len(numeric_data_list) + 1 - sorting_data_list[index]) / 10):.1f}" )
                     index += 1
                 else:
                     scaled_column.append("N/A")
