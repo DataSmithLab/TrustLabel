@@ -25,10 +25,10 @@ def generate_histogram(column, value, repo):
         width = end - start
         print(hist_values)
         height = hist_values[i] / 5
-        if start <= aim <= end:
-            rect = plt.Rectangle((start, 0), width, height, color='lightcoral', fill=True, alpha=0.7)
+        if start <= aim:
+            rect = plt.Rectangle((start, 0), width, height, color='blue', fill=True, alpha=0.7)
         else:
-            rect = plt.Rectangle((start, 0), width, height, color='lightblue', fill=True, alpha=0.7)
+            rect = plt.Rectangle((start, 0), width, height, color='grey', fill=True, alpha=0.7)
         plt.gca().add_patch(rect)
 
     plt.ylim(0, 100)
