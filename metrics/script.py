@@ -8,7 +8,7 @@ def generate_histogram(column, value, repo, label="trustee"):
 
     file_path = f"{repo}_prototype.csv"
     if label == "component":
-        file_path = f"{repo}_both_prototypes.csv"
+        file_path = f"{repo}_both_prototypes_v2.csv"
 
     df = pd.read_csv(file_path, encoding='gbk')
 
@@ -44,8 +44,8 @@ def generate_histogram(column, value, repo, label="trustee"):
     ax.spines['left'].set_visible(False)
     ax.spines['bottom'].set_visible(False)
     save_path = f"./images/{repo}/{column}.png"
-    if label == "component":
-        save_path = save_path = f"./images/{repo}/{column}_component.png"
+    # if label == "component":
+    #     save_path = save_path = f"./images/{repo}/{column}.png"
     plt.savefig(save_path, dpi=300, bbox_inches='tight', pad_inches=0.1)
     plt.close()
 
@@ -67,16 +67,16 @@ def generate_histogram(column, value, repo, label="trustee"):
 
 
 ### Component label
-histograms = ['community_activity_and_integrity', 'maintenance_and_goodwill', 'code_quality']
+histograms = ['community_activity_and_integrity_component', 'maintenance_and_goodwill_component', 'code_quality_component']
 
-# roughViz = [22.875, 24.825, 12.35]
-# for index, column in enumerate(histograms):
-#     generate_histogram(column, roughViz[index], 'roughViz', label="component")
+roughViz = [20.025, 24.825, 12.35]
+for index, column in enumerate(histograms):
+    generate_histogram(column, roughViz[index], 'roughViz', label="component")
 
-# twopasswords = [1.875, 15.775, 3.0]
-# for index, column in enumerate(histograms):
-#     generate_histogram(column, twopasswords[index], 'twopasswords', label="component")
+twopasswords = [2.467, 15.775, 3.0]
+for index, column in enumerate(histograms):
+    generate_histogram(column, twopasswords[index], 'twopasswords', label="component")
 
-voice_listener = [7.9, 11.075, 9.7]
+voice_listener = [8.267, 11.075, 9.7]
 for index, column in enumerate(histograms):
     generate_histogram(column, voice_listener[index], 'voice_listener', label="component")
